@@ -37,7 +37,7 @@ Analyzing tagged posts reveals genuine developer interest and challenges. Langua
 
 ## 📷 Visualization
 
-<img width="1361" height="845" alt="Programming Language Trends by Post Volume (2008–2020)" src="C:\Users\rajes\PycharmProjects\Day-73-start-Most-Popular-Programming-Language\final_output.png" />
+![Image](C:\Users\rajes\PycharmProjects\Day-73-start-Most-Popular-Programming-Language\final_output.png)
 
 
 ## 📌 How to Use
