@@ -35,6 +35,11 @@ This project explores the evolving popularity of programming languages across **
 
 Analyzing tagged posts reveals genuine developer interest and challenges. Languages rise and fall with trends in web dev, data science, enterprise, gaming, and more. Stack Exchange provides a rich cross-section of those conversations.
 
+## 📷 Visualization
+
+<img width="1361" height="845" alt="Programming Language Trends by Post Volume (2008–2020)" src="https://github.com/user-attachments/assets/1603f9f7-ad7c-433e-be28-33a0447b9075" />
+
+
 ## 📌 How to Use
 
 Explore the dataset to visualize historical trends, draw comparisons, or supplement research on developer tools and language evolution. Fork it to experiment with visualizations, notebooks, or frameworks of your choice.
