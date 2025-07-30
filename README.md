@@ -37,7 +37,7 @@ Analyzing tagged posts reveals genuine developer interest and challenges. Langua
 
 ## 📷 Visualization
 
-![Image](C:\Users\rajes\PycharmProjects\Day-73-start-Most-Popular-Programming-Language\final_output.png)
+![Image](../final_output.png)
 
 
 ## 📌 How to Use
