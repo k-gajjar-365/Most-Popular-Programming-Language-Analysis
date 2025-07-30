@@ -37,8 +37,7 @@ Analyzing tagged posts reveals genuine developer interest and challenges. Langua
 
 ## 📷 Visualization
 
-![Image](../final_output.png)
-
+<img width="1361" height="845" alt="image" src="https://github.com/user-attachments/assets/164e1e63-5934-4d48-80e0-391060bbd5f7" />
 
 ## 📌 How to Use
 
